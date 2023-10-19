@@ -3,10 +3,41 @@ Seuraavaa tehtävää tekiessäsi kannattaa terminaaliin avata uusi välilehti, 
 
     Kopioi tiedostoon tiedosto.txt jostain paljon tekstiä ja commitoi tiedosto
     Poista nyt osa tiedoston tekstistä ja lisää tiedostoon hieman lisää tekstiä
+    
+    suorita git status
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+        uudelleennimentä tapahtuu komennolla mv
+    suorita git status
+        miten git käsittelee uudelleennimennän?
+    commitoi muutos
+
+git add -p
+Tee jotain muutoksia tiedostoihin eka.txt ja kolmas.txt
+
+    tee sekä lisäyksiä että poistoja
+
+
     commitoi muutosten jälkeen
     Päivitä gitk:n näkymä (file/update) ja katso miten muutokset näkyvät (tarkastele kahta ylintä committia)
-        valitse oikeasta alakulmasta patch ja vasemmasta diff
-        näin näet commitin aiheuttamat muutokset diff-muodossa
-        jos oikealta on valittuna tree, näkyy vasemmalla puolella (valinnasta riippumatta) tiedostojen commitin aikainen tilanne
+
     Jos käytät sourcetreetä, sen pitäisi päivittyä automaattisesti ja näyttää muutos diff-muodossa
+
+    suorita git status
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+        uudelleennimentä tapahtuu komennolla mv
+    suorita git status
+        miten git käsittelee uudelleennimennän?
+    commitoi muutos
+
+git add -p
+Tee jotain muutoksia tiedostoihin eka.txt ja kolmas.txt
+
+    tee sekä lisäyksiä että poistoja
+
 
