@@ -13,23 +13,29 @@ Seuraavaa tehtävää tekiessäsi kannattaa terminaaliin avata uusi välilehti, 
     suorita git status
         miten git käsittelee uudelleennimennän?
     commitoi muutos
-
-git add -p
-Tee jotain muutoksia tiedostoihin eka.txt ja kolmas.txt
-
-    tee sekä lisäyksiä että poistoja
-
-
-    commitoi muutosten jälkeen
-    Päivitä gitk:n näkymä (file/update) ja katso miten muutokset näkyvät (tarkastele kahta ylintä committia)
-
-    Jos käytät sourcetreetä, sen pitäisi päivittyä automaattisesti ja näyttää muutos diff-muodossa
-
-    suorita git status
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    
     commitoi muutos
         poista ensin tiedosto gitin alaisuudesta komennolla git rm
     varmista komennolla git status, että kaikki on niinkuin kuuluukin
     muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    v
         uudelleennimentä tapahtuu komennolla mv
     suorita git status
         miten git käsittelee uudelleennimennän?

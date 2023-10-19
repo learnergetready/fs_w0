@@ -1,1 +1,52 @@
-muutos
+muu
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txt
+    
+    commitoi muutos
+        poista ensin tiedosto gitin alaisuudesta komennolla git rm
+    varmista komennolla git status, että kaikki on niinkuin kuuluukin
+    muuta tiedoston tiedosto.txt nimeksi eka.txttos
